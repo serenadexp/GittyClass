@@ -6,4 +6,8 @@ Curtis Was Here.
 
 NEEEEED FOOOOOOOOOOOOOOOOOD
 
+<<<<<<< HEAD
 Andre is not that Awesome.
+=======
+I'm having fun too.
+>>>>>>> 0d02cc4d16aa5959adc4b2ab6d94c0d12d5bf143
